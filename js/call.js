@@ -1,4 +1,3 @@
-<script>
 	(function() {
 		var menuEl = document.getElementById('ml-menu'),
 			mlmenu = new MLMenu(menuEl, {
